@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        TestSeven<Integer, String> nameToLen = new TestSeven<>();
+        MyMap<Integer, String> nameToLen = new MyMap<>();
 
         nameToLen.put(1, "a");
         nameToLen.put(6, "wojtek");
